@@ -2,8 +2,16 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 20px;
+  background-color: #f4f7fb;
+  line-height: 1.6;
 }
 
 h1 {
-  color: #333;
+  color: #1f4e79;
+  text-align: center;
+}
+
+p {
+  color: #444;
+  font-size: 18px;
 }
